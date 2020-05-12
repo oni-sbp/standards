@@ -13,7 +13,7 @@ Contexts are laid out in a versioned tree structure. Each specific definition is
 
 Naming standard is:
 
- - URL friendly (no characters that require % signs in the URL or similar)
+ - URL friendly (no characters that require % signs in the URL or similar )
  - Human readable
  - U.S. English
  - Pascal case
