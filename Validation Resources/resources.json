@@ -1,0 +1,39 @@
+{
+    "fieldsTypesRestrictions": {
+        "fieldsWithTypeList": [
+            "domain",
+            "range",
+            "pot:valueType",
+            "@container",
+            "label",
+            "comment"
+        ]
+    },
+    "requiredAttributes": {
+        "Property": [
+            "@id",
+            "@type",
+            "subPropertyOf",
+            "rdfs:label",
+            "rdfs:comment",
+            "domain"
+        ],
+        "SupportedAttribute": [
+            "@id",
+            "@type",
+            "pot:required",
+            "pot:readonly"
+        ]
+    },
+    "acceptedWordsSpellCheck": [
+        "ifc",
+        "pot",
+        "guid",
+        "idlocal",
+        "i.e",
+        "e.g"
+    ],
+    "prefix": "pot",
+    "URL": "https://standards-ontotest.oftrust.net/v1/",
+    "ontology": "pot"
+}
